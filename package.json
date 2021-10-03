@@ -5,7 +5,9 @@
   "author": "gezielelyon <geziel_barbosa_hotmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.2.8"
+    "git-commit-msg-linter": "^3.2.8",
+    "husky": "^7.0.2",
+    "lint-staged": "^11.1.2"
   },
   "dependencies": {
     "@types/node": "^16.10.2",
