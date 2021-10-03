@@ -5,9 +5,12 @@
   "author": "gezielelyon <geziel_barbosa_hotmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^27.0.2",
     "git-commit-msg-linter": "^3.2.8",
     "husky": "^7.0.2",
-    "lint-staged": "^11.1.2"
+    "jest": "^27.2.4",
+    "lint-staged": "^11.1.2",
+    "ts-jest": "^27.0.5"
   },
   "dependencies": {
     "@types/node": "^16.10.2",
