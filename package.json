@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "gezielelyon <geziel_barbosa_hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "git-commit-msg-linter": "^3.2.8",
