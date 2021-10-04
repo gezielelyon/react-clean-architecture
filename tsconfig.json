@@ -1,25 +1,24 @@
 {
-  "compilerOptions": {
-    "target": "es5",
+    "compilerOptions": {
+    "target": "es6",
     "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
+        "dom",
+        "dom.iterable",
+        "esnext"
     ],
-    "allowJs": true,
-    "skipLibCheck": true,
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noFallthroughCasesInSwitch": true,
     "module": "esnext",
     "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "noEmit": true,
-    "jsx": "react"
-  },
-  "include": [
-    "src"
-  ]
+    "jsx": "react",
+    "rootDirs": ["src", "tests"],
+    "baseUrl": "src",
+    "paths": {
+        "@/*": ["*"],
+        "@/tests/*": ["../tests/*"]
+    },
+    "allowJs": true,
+    "resolveJsonModule": true
+    },
+    "include": ["src", "tests"],
+    "exclude": ["tests/e2e/cypress"]
 }
