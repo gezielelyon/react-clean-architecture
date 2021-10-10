@@ -26,7 +26,7 @@ describe('RemoteAuthentication', () => {
     const { sut, httpPostClientSpy } = makeSut(url)
     await sut.auth(mockAuthentication())
 
-    expect(httpPostClientSpy.url).toBe(url)
+    expect(httpPostClientSpy.url).toBe(url) // toBe Compare pointers
   })
 
   test('Should call HttpPostClient with correct body', async () => {
@@ -34,6 +34,6 @@ describe('RemoteAuthentication', () => {
     const authenticationParams = mockAuthentication()
 
     await sut.auth(authenticationParams)
-    expect(httpPostClientSpy.body).toEqual(authenticationParams)
+    expect(httpPostClientSpy.body).toEqual(authenticationParams) // toEqual Compare object values
   })
 })
