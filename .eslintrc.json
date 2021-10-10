@@ -10,6 +10,7 @@
     "@typescript-eslint/strict-boolean-expressions": "off",
     "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/no-unused-vars": "off",
-    "@typescript-eslint/rule-name": "off"
+    "@typescript-eslint/rule-name": "off",
+    "@typescript-eslint/ban-types": "off"
   }
 }
