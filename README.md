@@ -1,6 +1,10 @@
 # React-CleanArchitecture
 This is a project created with ReactJs that show the best practices and principles using this lib
 
+![CleanArchitecture](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
+![After](https://user-images.githubusercontent.com/48457700/153754947-dd1c8bfd-391e-4149-8e13-d9e92707b1ca.PNG)
+
+
 > ## Princípios
 * Single Responsibility Principle (SRP)
 * Open Closed Principle (OCP)
