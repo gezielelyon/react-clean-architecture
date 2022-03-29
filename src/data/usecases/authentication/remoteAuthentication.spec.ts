@@ -23,7 +23,8 @@ describe('RemoteAuthentication', () => {
   test('Should call HttpPostClient with correct URL', async () => {
     const url = faker.internet.url()
 
-    const { sut, httpPostClientSpy } = makeSut(url)
+    const { sut, httpPostClientSpy } = makeSut(url) // SUT meaning Suit Under Tests
+
     await sut.auth(mockAuthentication())
 
     expect(httpPostClientSpy.url).toBe(url) // toBe Compare pointers
@@ -34,6 +35,7 @@ describe('RemoteAuthentication', () => {
     const authenticationParams = mockAuthentication()
 
     await sut.auth(authenticationParams)
+
     expect(httpPostClientSpy.body).toEqual(authenticationParams) // toEqual Compare object values
   })
 })
