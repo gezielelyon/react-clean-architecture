@@ -1,10 +1,8 @@
-import { IHttpPostClient } from '@/data/protocols/http/httpPostClient'
-import { HttpStatusCode } from '@/data/protocols/http/httpResponse'
+import { IHttpPostClient, HttpStatusCode } from '@/data/protocols/http'
 
-import { AuthenticationParams, IAuthentication } from '@/domain/usecases/authentication'
-import { InvalidCredentialsError } from '@/domain/errors/invalidCredentialsError'
-import { UnexpectedError } from '@/domain/errors/unexpectedError'
-import { AccountModel } from '@/domain/models/accountModel'
+import { AuthenticationParams, IAuthentication } from '@/domain/usecases'
+import { InvalidCredentialsError, UnexpectedError } from '@/domain/errors'
+import { AccountModel } from '@/domain/models'
 
 export class RemoteAuthentication implements IAuthentication {
   // All that's not common to every class instancy is passed by constructor
