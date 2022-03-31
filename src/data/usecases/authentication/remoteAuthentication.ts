@@ -3,13 +3,14 @@ import { HttpStatusCode } from '@/data/protocols/http/httpResponse'
 
 import { InvalidCredentialsError } from '@/domain/errors/invalidCredentialsError'
 import { UnexpectedError } from '@/domain/errors/unexpectedError'
+import { AccountModel } from '@/domain/models/accountModel'
 import { AuthenticationParams } from '@/domain/usecases/authentication'
 
 export class RemoteAuthentication {
   // All that's not common to every class instancy is passed by constructor
   constructor (
     private readonly url: string,
-    private readonly httpPostClient: IHttpPostClient
+    private readonly httpPostClient: IHttpPostClient<AuthenticationParams, AccountModel>
   ) {}
 
   public async auth (params: AuthenticationParams): Promise<void> {
