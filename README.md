@@ -1,7 +1,7 @@
-![GitHub issues](https://img.shields.io/github/issues/programador404/react_clean_aruchitecture)
-![GitHub forks](https://img.shields.io/github/forks/programador404/react_clean_aruchitecture)
-![GitHub stars](https://img.shields.io/github/stars/programador404/react_clean_aruchitecture)
-![GitHub license](https://img.shields.io/github/license/programador404/react_clean_aruchitecture)
+![GitHub issues](https://img.shields.io/github/issues/programador404/react_clean_architecture)
+![GitHub forks](https://img.shields.io/github/forks/programador404/react_clean_architecture)
+![GitHub stars](https://img.shields.io/github/stars/programador404/react_clean_architecture)
+![GitHub license](https://img.shields.io/github/license/programador404/react_clean_architecture)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-red)
 
