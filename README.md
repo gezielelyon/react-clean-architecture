@@ -1,9 +1,15 @@
-# React-CleanArchitecture
-This is a project created with ReactJs that show the best practices and principles using this lib
+![GitHub issues](https://img.shields.io/github/issues/programador404/react_clean_aruchitecture)
+![GitHub forks](https://img.shields.io/github/forks/programador404/react_clean_aruchitecture)
+![GitHub stars](https://img.shields.io/github/stars/programador404/react_clean_aruchitecture)
+![GitHub license](https://img.shields.io/github/license/programador404/react_clean_aruchitecture)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-red)
 
-![CleanArchitecture](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
-![After](https://user-images.githubusercontent.com/48457700/153754947-dd1c8bfd-391e-4149-8e13-d9e92707b1ca.PNG)
+![Logo](https://user-images.githubusercontent.com/48457700/222991086-4b28c9d2-c3b5-4c08-b5d9-7204866a1292.png)
+![Clean Architecture](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
 
+# React Clean Architecture
+This is a project created with ReactJs that show some best practices and principles using this lib
 
 > ## Princípios
 * Single Responsibility Principle (SRP)
