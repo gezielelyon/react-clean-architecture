@@ -9,7 +9,7 @@
 ![Clean Architecture](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
 
 # React Clean Architecture
-This is a project created with ReactJs that show some best practices and principles using this lib
+This is a project created with React that show some of the best practices and principles using this library.
 
 > ## Princípios
 * Single Responsibility Principle (SRP)
