@@ -1,17 +1,51 @@
-![GitHub issues](https://img.shields.io/github/issues/programador404/react_clean_architecture)
-![GitHub forks](https://img.shields.io/github/forks/programador404/react_clean_architecture)
-![GitHub stars](https://img.shields.io/github/stars/programador404/react_clean_architecture)
-![GitHub license](https://img.shields.io/github/license/programador404/react_clean_architecture)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-red)
+<div align='justify'>
+
+<div align='center'>
+
+# **React Clean Architecture**
+
+</div>
+
+<div align='center'>
+
+![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_clean_architecture)
+![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_clean_architecture)
+![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_clean_architecture)
+![GitHub license](https://img.shields.io/github/license/gezielelyon/react_clean_architecture)
+![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
+![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
+![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
+![CSS](https://img.shields.io/badge/CSS-Styles-pink)
+![React](https://img.shields.io/badge/React-Components-orange)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-purple)
+
+</div>
 
 ![Logo](https://user-images.githubusercontent.com/48457700/222991086-4b28c9d2-c3b5-4c08-b5d9-7204866a1292.png)
-![Clean Architecture](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
 
-# React Clean Architecture
-This is a project created with React that show some of the best practices and principles using this library.
+## **Summary**
+- [About the project](#about-the-project)
+- [Technologies](#technologies)
+- [Principles](#principles)
+- [Design Patterns](#design-patterns)
+- [Methodologies and Designs](#methodologies-and-designs)
+- [Libraries and Tools](#libraries-and-tools)
+- [React Features](#react-features)
+- [Typescript Features](#typescript-features)
+- [Tests Features](#tests-features)
+- [Images](#images)
 
-> ## Princípios
+## **About the project**
+This repository contains a project with the best practices, principles and patterns using react.
+
+## **Technologies**
+The technologies used on the project development are listed below.
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
+
+## Principles
 * Single Responsibility Principle (SRP)
 * Open Closed Principle (OCP)
 * Liskov Substitution Principle (LSP)
@@ -24,7 +58,7 @@ This is a project created with React that show some of the best practices and pr
 * Composition Over Inheritance
 * Small Commits
 
-> ## Design Patterns
+## Design Patterns
 * Factory
 * Adapter
 * Composite
@@ -34,7 +68,7 @@ This is a project created with React that show some of the best practices and pr
 * Builder
 * Proxy
 
-> ## Metodologias e Designs
+## Methodologies and Designs
 * TDD
 * Clean Architecture
 * DDD
@@ -49,7 +83,7 @@ This is a project created with React that show some of the best practices and pr
 * Continuous Delivery
 * Continuous Deployment
 
-> ## Bibliotecas e Ferramentas
+## Libraries and Tools
 * Typescript
 * React
 * Recoil
@@ -71,7 +105,7 @@ This is a project created with React that show some of the best practices and pr
 * Standard Javascript Style
 * React Flip Move
 
-> ## Features do React
+## React Features
 * Functional Components
 * UseState
 * UseContext
@@ -88,25 +122,7 @@ This is a project created with React that show some of the best practices and pr
 * Router
 * Memo
 
-> ## Features do Git
-* Alias
-* Log Personalizado
-* Branch
-* Reset
-* Amend
-* Tag
-* Tag Anotada
-* Stash
-* Rebase
-* Merge
-* Add
-* Commit
-* Push
-* Pull
-* Shortlog
-* Status
-
-> ## Features do Typescript
+## Typescript Features
 * POO Avançado
 * Interface
 * Type Alias
@@ -118,7 +134,7 @@ This is a project created with React that show some of the best practices and pr
 * Deploy
 * Generics
 
-> ## Features de Testes
+## Tests Features
 * Testes Unitários
 * Testes de Integração
 * Testes e2e
@@ -129,3 +145,9 @@ This is a project created with React that show some of the best practices and pr
 * Spies
 * Fakes
 * Dummies
+
+## **Images**
+![Image](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
+
+<kbd>[&uarr; Summary](#summary)</kbd>
+</div>
