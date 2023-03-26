@@ -26,6 +26,7 @@
 ## **Summary**
 - [About the project](#about-the-project)
 - [Technologies](#technologies)
+- [Images](#images)
 - [Principles](#principles)
 - [Design Patterns](#design-patterns)
 - [Methodologies and Designs](#methodologies-and-designs)
@@ -33,7 +34,6 @@
 - [React Features](#react-features)
 - [Typescript Features](#typescript-features)
 - [Tests Features](#tests-features)
-- [Images](#images)
 
 ## **About the project**
 This repository contains a project with the best practices, principles and patterns using react.
@@ -44,6 +44,9 @@ The technologies used on the project development are listed below.
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
+
+## **Images**
+![Image](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
 
 ## Principles
 * Single Responsibility Principle (SRP)
@@ -145,9 +148,6 @@ The technologies used on the project development are listed below.
 * Spies
 * Fakes
 * Dummies
-
-## **Images**
-![Image](https://user-images.githubusercontent.com/48457700/153754934-1a5e8261-8688-474c-82ad-5e937138c10c.PNG)
 
 <kbd>[&uarr; Summary](#summary)</kbd>
 </div>
