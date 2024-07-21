@@ -8,10 +8,10 @@
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_clean_architecture)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_clean_architecture)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_clean_architecture)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_clean_architecture)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react-clean-architecture)](https://github.com/gezielelyon/react-clean-architecture/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react-clean-architecture)](https://github.com/gezielelyon/react-clean-architecture/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/react-clean-architecture)](https://github.com/gezielelyon/react-clean-architecture/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/react-clean-architecture)](https://github.com/gezielelyon/react-clean-architecture)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
